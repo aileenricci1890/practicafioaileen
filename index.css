@@ -53,3 +53,8 @@
     background-color: #c05497;
   }
 }
+.boton:hover,
+.boton:active {
+  transform: scale(1.05);
+  background-color: #76f3ce;
+}
